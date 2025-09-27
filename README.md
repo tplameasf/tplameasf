@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Tirthapooja 👋
+🎓 B.Tech Computer Science (2nd Year) | Big Data & Analytics Enthusiast  
+💻 Passionate about Python, SQL, Data Engineering & Open Source  
+🌱 Currently learning: DSA, Spark, Hadoop  
 
-<!--
-**tplameasf/tplameasf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Programming:** Python, C, C++, Java, SQL  
+- **Data Tools:** Pandas, NumPy, Hadoop, Spark  
+- **Others:** Git, GitHub, Linux, Data Visualization  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📂 Projects
+- **DSA-Practice:** Array, LinkedList, Graphs, Sorting  
+- **Mini Projects:** Calculator, To-Do List, Student Database  
+- **Data Analysis Projects:** CSV analysis, Pandas practice
+
+🌟 Fun fact: I love exploring new datasets and building data visualizations!
