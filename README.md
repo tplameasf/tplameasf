@@ -7,7 +7,7 @@
 
 ## 🛠️ Skills
 - **Programming:** Python, C, C++, Java, SQL  
-- **Data Tools:** Pandas, NumPy, Hadoop, Spark  
+- **Data Tools:** Pandas, NumPy, Hadoop, Spark ,Seaborn 
 - **Others:** Git, GitHub, Linux, Data Visualization  
 
 ---
